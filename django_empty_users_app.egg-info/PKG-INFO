@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: django-empty-users-app
-Version: 1.0.0
+Version: 1.0.1
 Summary: Just an app with empty migration file inside.
-Home-page: https://github.com/HarleyK1ng/django_empty_users
+Home-page: https://github.com/AllYouZombies/django-empty-users-app
 Author: Astafeev Rustam
-Author-email: astafeev0308@gmail.com
+Author-email: rustam@astafeev.dev
 License: MIT License
 Classifier: Environment :: Web Environment
 Classifier: Framework :: Django

@@ -7,6 +7,8 @@ https://testdriven.io/blog/django-custom-user-model-migration/
 
 I've made an app with 1 empty migration file, so you don't have to create it yourself.
 
+> If you find this packaga useful, please consider giving it a star on [GitHub](https://github.com/AllYouZombies/django-empty-users-app).
+
 ## Installation
 
 ```shell
